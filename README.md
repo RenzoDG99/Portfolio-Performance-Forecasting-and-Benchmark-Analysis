@@ -102,7 +102,7 @@ This provides a direct measure of whether active stock selection is expected to 
 | Forecast Portfolio Return | **70.16%** |
 | Benchmark Return | **103.43%** |
 | Benchmark Value | **$25,429.15** |
-| Excess Return | **-33.27%** |
+| Relative Return vs Benchmark | **-33.27%** |
 
 
 ### Individual Holdings
