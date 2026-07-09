@@ -159,6 +159,18 @@ Compares each investment with investing the same amount into SPY over the same h
 <img width="602" height="331" alt="portfolio_history_with_benchmark_facet" src="https://github.com/user-attachments/assets/a4ccbd63-a9ff-453d-93be-bacdba40f33e" />
 
 
+### Stock Price Range and Volatility Analysis
+
+Shows the historical price movement of each holding, highlighting minimum and maximum observed prices and purchase price of each stock.
+
+This provides additional insight into:
+- Historical volatility
+- Price range variation
+- Relative movement between portfolio holdings
+
+<img width="602" height="342" alt="stock_minmax_purchase" src="https://github.com/user-attachments/assets/548b1ed7-57d0-4d28-9d84-9f065d5598e5" />
+
+
 ## Key Findings
 
 - The portfolio is forecast to increase from **$12,500** to approximately **$21,270**, representing a **70.16%** return.
@@ -237,7 +249,7 @@ Portfolio-Forecasting/
 
 ## Author
 
-Renzo DG
+Renzo Del Grosso
 
 Bachelor of Science (Mathematics & Statistics with Financial Orientation)
 
