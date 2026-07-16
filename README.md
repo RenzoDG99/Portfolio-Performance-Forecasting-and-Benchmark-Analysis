@@ -1,5 +1,12 @@
 # Portfolio-Performance-Forecasting-and-Benchmark-Analysis
 
+![R](https://img.shields.io/badge/R-Data%20Analysis-blue)
+![Financial Analytics](https://img.shields.io/badge/Financial%20Analytics-Portfolio%20Performance-green)
+![Time Series Forecasting](https://img.shields.io/badge/Forecasting-ARIMA-orange)
+![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-Returns%20%26%20Volatility-red)
+![Data Visualisation](https://img.shields.io/badge/Visualisation-ggplot2-purple)
+![Benchmarking](https://img.shields.io/badge/Benchmark-SPY%20Comparison-black)
+
 ## Overview
 This project was developed to analyse the historical performance of an investment portfolio, forecast future portfolio values, and compare expected performance against the S&P 500 (SPY) benchmark.
 
